@@ -1,0 +1,1 @@
+# LC-239-carosello-base
